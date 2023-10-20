@@ -1,10 +1,26 @@
 # Exercício de Casa 🏠 
 
-## Nome do Exercicio
+## Projeto da Semana 12
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
+Nesta semana iremos trabalhar novamente com os dados do navio "Titanic", que contém informações sobre os passageiros que estavam a bordo da viagem. Você deve gerar um notebook em arquivo .ipynb com análises básicas para esse dataset (Titanic) ou para outro dataset (caso desejar) utilizando Pandas, Matplotlib e Numpy. 
+
+Formato do notebook:
+
+    ●	Introdução
+        ○	Breve descrição da base de dados
+
+    ●	Processamento
+        ○	Função de processamento
+            ○	Leitura e tratamento do DF
+
+    ●	Visualizações / Insights
+        ○	Código utilizado para geração de gráficos
+        ○	Gráficos
+        ○	Ideias/Insights
+
+Atividades obrigatórias no desenvolvimento:
+    ●	3 diferentes gráficos
+
 ---
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
