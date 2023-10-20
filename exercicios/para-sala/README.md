@@ -1,10 +1,8 @@
 # Exercício de Sala 🏫  
 
-## Nome do Exercicio
+## Semana 12
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
+Essa semana teremos 5 exercícios que iremos resolver no horário de aula do sábado, por isso, os exercícios estarão no arquivo .ipynb --> [Material da aula](https://github.com/reprograma/on26-python-s12-pandas-numpy-II/tree/main/material)
 ---
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
