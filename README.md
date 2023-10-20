@@ -15,45 +15,44 @@ Antes de começar, vamos organizar nosso setup.
 
 ### Resumo
 O que veremos na aula de hoje?
-* [Tema1](#Análise de Dados)
-* [Tema2](#Gerando Gráficos com Pandas e Matplotlib)
-* [Tema3](#Análise de Dados com Pandas e Numpy)
+
+<a name="ancora"></a>
+
+* [Análise de Dados](#Tema1)
+* [Gerando Gráficos com Pandas e Matplotlib](#Tema2)
+* [Análise de Dados com Pandas e Numpy](#Tema3)
 
 ## Conteúdo
-### Tema1 
-1. [Tópico 1](#Conteúdo geral I: Análise de Dados)
-2. [Tópico 2](#Conteúdo geral II: Análise de Dados)
-3. [Tópico 3](#Análise de Dados com Pandas)
+### <a id="Tema1"></a>
+### Análise de Dados
 
-### Tema2 
-1. [Tópico 4](#Gerando Gráficos com Pandas e Matplotlib)
-   
-### Tema3
-1. [Tópico 5](#Análise de Dados com Pandas: Juntando forças com o pacote numpy)
+1. Conteúdo geral I: Análise de Dados
+    * Pensamento analítico
 
-### Tema1 
+2. Conteúdo geral II: Análise de Dados
+    * Visualização de dados
 
-#### Topico1
+3. Análise de Dados com Pandas
+    * Selecionar e filtrar (linhas e colunas)
+    * Agregação e agrupamento de dados
 
-Vamos entender melhor a teoria da análise de dados com pensamento analítico.
 
-#### Topico2
-  
-Vamos compreender qual o significado da visualização de dados e sua importância na análise de dados.
 
-#### Topico3
-  
-Vamos aplicar filtros e seleção de dados usando a biblioteca Pandas para analisar os dados do nosso *dataset*.
+### <a id="Tema2"></a>
+### Gerando Gráficos com Pandas e Matplotlib 
+    
+- Utilizando a biblioteca Pandas para gerar gráficos
+- Utilizando a biblioteca Matplotlib para gerar mais robustos e detalhados
 
-### Tema2
-#### Topico5
 
-Vamos aprender usar a ferramenta Matplotlib junto com a biblioteca Pandas para geração de gráficos.
+### <a id="Tema3"></a>   
+### Análise de Dados com Pandas e Numpy
 
-### Tema3
-#### Topico4
+- Introdução a biblioteca Numpy
+- Funções básicas do Numpy
+- Aliar o Pandas com o Numpy para análises
 
-Vamos juntar forças para a nossas análises de dados usando a biblioteca Numpy em conjunto com a biblioteca Pandas.
+
 
 ***
 ### Exercícios 
@@ -61,6 +60,8 @@ Vamos juntar forças para a nossas análises de dados usando a biblioteca Numpy 
 * [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
 
 ### Material da aula 
+
+* [Material da aula](https://github.com/reprograma/on26-python-s12-pandas-numpy-II/tree/main/material)
 
 ### Links Úteis
 - [Numpy](https://numpy.org/pt/learn/)
