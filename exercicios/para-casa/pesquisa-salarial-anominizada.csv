@@ -1,0 +1,190 @@
+,Timestamp,Qual é o nome do seu cargo? ,Quanto é seu salário mensal? ,Quantos anos você tem experiência na área?,Qual o regime de trabalho? ,"Como PJ, a empresa te obriga a cumprir um horário especificado por ela? ","Como CLT, você é obrigado a fazer horas além do seu horário? ",O que você faz no seu trabalho,Você é responsável por coordenar pessoas? ,Qual é o tamanho da sua empresa? ,Sua empresa é uma consultoria? ,empresa_codigo,localidade
+0,29/05/2023 10:26:51,Software Engineer,15000.0,,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,68,
+1,29/05/2023 10:29:14,Desenvolvedor Python Pleno,7000.0,,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,-1,
+2,29/05/2023 10:32:02,Desenvolvedor Frontend,7100.0,,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Não,-1,
+3,29/05/2023 10:36:11,Software Engineer,15000.0,,PJ,Sim,,Desenvolvimento de novos produtos,Sim,Até 10 funcionários,Sim,61,
+4,29/05/2023 10:36:11,Software Engineering Consultant,44000.0,,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 10 funcionários,Não,31,
+5,29/05/2023 10:36:51,Tech Lead,15100.0,,CLT,,Não,Desenvolvimento de novos produtos,Sim,Até 500 funcionários,Não,23,
+6,29/05/2023 10:40:01,Desenvolvedor de Software,4600.0,,CLT,,Sim,Suporte em sistemas legados,Sim,Até 10 funcionários,Sim,-1,
+7,29/05/2023 10:42:49,Suporte Tecnico,1900.0,,CLT,,Não,Suporte de sistemas em produção,Não,Até 10 funcionários,Não,-1,PE
+8,29/05/2023 10:46:14,Arquiteto de Soluções ,16740.0,8.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,56,SP
+9,29/05/2023 10:46:54,Analista de sistemas,22500.0,5.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,101,SP
+10,29/05/2023 10:49:22,Software Developer,6200.0,4.0,CLT,,Sim,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Não,-1,SP
+11,29/05/2023 10:50:17,Senior Backend Developer,37000.0,32.0,PJ,Sim,,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,79,PR
+12,29/05/2023 10:51:12,Analista de Sistemas JR,6100.0,2.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 1000 funcionários,Não,-1,RJ
+13,29/05/2023 10:53:48,Front-end developer I,3812.0,1.0,CLT,,Não,"Novos produtos, suporte em prod e legado.",Não,Mais de 1000 funcionários,Não,32,MA
+14,29/05/2023 11:03:59,Dev Especialista 1,11000.0,10.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,-1,PR
+15,29/05/2023 11:12:14,Senior Software Engineer,16500.0,10.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,51,SP
+16,29/05/2023 11:18:45,Staff Engineer,50000.0,25.0,PJ,Não,,Gestão de Produtos,Sim,Até 100 funcionár,Não,37,DF
+17,29/05/2023 11:18:48,Assessor técnico II,12283.0,6.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,85,RJ
+18,29/05/2023 11:19:51,Career Backend,11000.0,4.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Não,-1,SP
+19,29/05/2023 11:20:55,Security Engineer,24000.0,14.0,PJ,Sim,,ciber segurança,Não,Até 500 funcionários,Não,-1,RN
+20,29/05/2023 11:26:41,Desenvolvedor Fullstack pleno,4000.0,2.0,PJ,Sim,,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Sim,71,GO
+21,29/05/2023 11:29:25,Fullstack Sênior,38000.0,11.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Sim,19,GO
+22,29/05/2023 11:33:30,Desenvolvedor de Software,8000.0,2.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Sim,50,RN
+23,29/05/2023 11:41:43,Software Engineer,10800.0,4.0,CLT,,Sim,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,35,MG
+24,29/05/2023 11:44:28,Senior Rust Developer,14300.0,9.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Não,84,SP
+25,29/05/2023 11:47:49,Senior Software Engineer,18000.0,9.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,107,SP
+26,29/05/2023 12:03:47,Software Engineer III,12000.0,9.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,42,Canadá
+27,29/05/2023 12:10:16,Desenvolvedor Backend Junior,3000.0,1.0,PJ,Não,,Gestão de Projetos,Não,Até 100 funcionár,Sim,4,SP
+28,29/05/2023 12:12:12,Senior Frontend Developer,15000.0,12.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Sim,2,SP
+29,29/05/2023 12:19:57,Analista Junior,3100.0,4.0,CLT,,Sim,Desenvolvimento de novos produtos,Não,Até 1000 funcionários,Sim,-1,ES
+30,29/05/2023 12:28:07,Analista de desenvolvimento de sistema junior,5000.0,2.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,-1,MG
+31,29/05/2023 12:41:16,Engenheiro de software ,15500.0,3.0,PJ,Sim,,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Sim,-1,MG
+32,29/05/2023 13:51:34,Desenvolvedor Senior,60000.0,14.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,5,SP
+33,29/05/2023 13:55:51,Desenvolvedor pleno,7000.0,5.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,60,RJ
+34,29/05/2023 14:23:17,Tech Lead,21000.0,3.0,PJ,Sim,,Desenvolvimento de novos produtos,Sim,Até 500 funcionários,Sim,25,SP
+35,29/05/2023 14:32:28,Engenheiro de Software Júnior,4000.0,0.0,CLT,,Não,Suporte de sistemas em produção,Não,Até 500 funcionários,Não,15,SP
+36,29/05/2023 14:50:48,Consultor,12100.0,5.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Sim,97,SP
+37,29/05/2023 15:10:32,Staff Software Engineer,61000.0,16.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 1000 funcionários,Não,-1,Brasil
+38,29/05/2023 15:12:55,Desenvolvedor back end III,8000.0,3.0,CLT,,Não,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Não,119,SP
+39,29/05/2023 15:20:00,Desenvolvedor FullStack,14600.0,10.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,110,SP
+40,29/05/2023 15:20:02,Cientista de dados,3900.0,6.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 10 funcionários,Sim,99,RS
+41,29/05/2023 15:21:19,Engenheiro de software L3,14800.0,10.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,64,SC
+42,29/05/2023 15:21:52,Engenheiro de Software,10000.0,2.0,PJ,Não,,Desenvolvimento de novos produtos,Sim,Até 100 funcionár,Não,111,SP
+43,29/05/2023 15:24:50,system development specialist,8300.0,9.0,CLT,,Não,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Sim,116,RN
+44,29/05/2023 15:36:26,Técnico Judiciário Tecnologia da Informação ,10500.0,10.0,CLT,,Não,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Não,57,RS
+45,29/05/2023 15:52:04,Dev Jr,4000.0,2.0,CLT,,Não,Suporte de sistemas em produção,Não,Até 500 funcionários,Sim,74,SP
+46,29/05/2023 15:55:37,Analista de sistemas sênior 2,5800.0,4.0,CLT,,Não,Suporte de sistemas em produção,Não,Até 1000 funcionários,Não,48,SP
+47,29/05/2023 15:56:01,Salesforce architect,13700.0,6.0,CLT,,Não,Desenvolvimento de novos produtos,Sim,Até 100 funcionár,Sim,-1,MG
+48,29/05/2023 15:57:54,Principal Salesforce Engineer,19305.0,6.0,CLT,,Sim,Liderança técnica e Arquitetura Salesforce,Sim,Mais de 1000 funcionários,Não,29,SP
+49,29/05/2023 16:04:02,Analista de sistemas trainee,3000.0,1.0,CLT,,Não,Estudo,Não,Até 1000 funcionários,Não,22,SP
+50,29/05/2023 16:11:31,Senior software engineer,37000.0,7.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,70,SP
+51,29/05/2023 16:16:36,Senior Software Engineer,35000.0,10.0,PJ,Sim,,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Sim,102,SC
+52,29/05/2023 16:24:38,Engineering Manager,58136.0,25.0,CLT,,Não,Desenvolvimento de novos produtos,Sim,Mais de 1000 funcionários,Não,67,RS
+53,29/05/2023 16:31:58,Cientista de Dados,4000.0,1.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,-1,SP
+54,29/05/2023 16:32:53,Tech Lead,23300.0,5.0,CLT,,Não,Desenvolvimento de novos produtos,Sim,Até 500 funcionários,Não,59,PR
+55,29/05/2023 16:34:03,Data Scientist,63000.0,4.0,PJ,Sim,,Desenvolvimento de novos produtos,Sim,Mais de 1000 funcionários,Não,36,EUA
+56,29/05/2023 16:35:49,Desenvolvedor de Software,11000.0,7.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,-1,PI
+57,29/05/2023 16:49:10,Dev 3,5300.0,3.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Não,3,PR
+58,29/05/2023 16:52:13,Tech Lead,13150.0,10.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,6,PR
+59,29/05/2023 16:56:19,Desenvolvedor Back-end Júnior ,3181.0,1.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Sim,-1,DF
+60,29/05/2023 16:59:31,Senior Software Engineer,36000.0,9.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,-1,PR
+61,29/05/2023 17:00:53,Senior Software Engineer,18000.0,6.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,73,SP
+62,29/05/2023 17:10:06,Cientista de dados,7600.0,3.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 1000 funcionários,Sim,-1,SP
+63,29/05/2023 17:25:41,Líder Técnico ,17500.0,10.0,CLT,,Sim,Gestão de Projetos,Sim,Mais de 1000 funcionários,Não,52,SP
+64,29/05/2023 17:28:51,Desenvolvedor Backend,7292.0,2.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,0,SP
+65,29/05/2023 17:32:01,Desenvolvedor salesforce senior ,17000.0,5.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Sim,43,CE
+66,29/05/2023 17:43:57,Engenheiro de Analytics Senior ,14000.0,6.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,55,SP
+67,29/05/2023 18:01:45,Engenheiro de Software Pleno,10000.0,3.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Não,9,PS
+68,29/05/2023 18:04:48,Front end,10000.0,3.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,-1,RJ
+69,29/05/2023 18:17:20,Desenvolvedor junior 1,1600.0,1.0,CLT,,Não,Suporte em sistemas legados,Não,Até 10 funcionários,Não,26,MG
+70,29/05/2023 18:22:05,Product Manager ,13400.0,3.0,CLT,,Não,Gestão de Produtos,Não,Até 500 funcionários,Não,-1,SP
+71,29/05/2023 18:24:19,SWE II,17000.0,3.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,87,RS
+72,29/05/2023 18:28:40,Analista desenvolvedor traenee,3100.0,3.0,CLT,,Não,Suporte de sistemas em produção,Não,Até 500 funcionários,Não,93,SP
+73,29/05/2023 18:31:21,Dev. Jr. Automações ,3300.0,1.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,87,RS
+74,29/05/2023 18:45:38,Dev Backend III,14000.0,15.0,CLT,,Não,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Não,-1,PA
+75,29/05/2023 18:50:10,Dev fullstack junior,5000.0,3.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Não,-1,SC
+76,29/05/2023 18:53:47,Dev Front-end Senior,9000.0,4.0,CLT,,Não,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Não,113,RJ
+77,29/05/2023 19:13:42,Engenheiro de software pleno,12000.0,5.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,46,SP
+78,29/05/2023 19:14:46,Salesforce Developer,56250.0,23.0,PJ,Sim,,Desenvolvimento de novos produtos,Não,Até 1000 funcionários,Sim,-1,SP
+79,29/05/2023 19:43:52,Senior Software Consultant,14400.0,13.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Sim,100,RN
+80,29/05/2023 19:49:30,Engenheiro de Dados,20000.0,5.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,82,Bolívia
+81,29/05/2023 19:58:56,Analista de desenvolvimento jr ,5800.0,3.0,CLT,,Não,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Sim,-1,SP
+82,29/05/2023 20:07:12,Desenvolvedor Senior,11500.0,7.0,CLT,,Não,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Não,108,PE
+83,29/05/2023 20:20:00,Desenvolvedor jr,3890.0,1.0,CLT,,Não,Suporte em sistemas legados,Não,Até 100 funcionár,Não,-1,PE
+84,29/05/2023 20:20:35,"Arquiteto de Software ""pleno""",12000.0,18.0,CLT,,Sim,Desenvolvimento de novos produtos,Sim,Mais de 1000 funcionários,Não,7,PR
+85,29/05/2023 20:24:36,Analista Jr,3900.0,3.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,-1,SC
+86,29/05/2023 20:29:24,Desenvolvedor fullstack jr,2240.0,2.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Sim,1,PE
+87,29/05/2023 20:35:35,Mobile Lead,12000.0,3.0,CLT,,Não,"Desenvolvimento, suporte e coordenação do time mobile ",Sim,Até 10 funcionários,Não,109,DF
+88,29/05/2023 20:40:19,Engenheiro de Dados,40000.0,5.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Sim,-1,PE
+89,29/05/2023 20:41:57,Analista de sistemas I,5093.0,8.0,CLT,,Sim,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Não,-1,SP
+90,29/05/2023 21:01:13,full stack web developer,8450.0,4.0,CLT,,Não,"Manutenção de servidores, gestão de websites, gestão de projetos e atuo como product owner. visto vários chapéus em um time de transformação digital",Não,Até 500 funcionários,Não,-1,SP
+91,29/05/2023 21:33:52,Sênior Software Developer ,17500.0,17.0,CLT,,Não,Desenvolvimento de novos produtos,Sim,Mais de 1000 funcionários,Sim,-1,SP
+92,29/05/2023 21:44:28,Analista arquitetura de sistemas sênior ,8500.0,10.0,CLT,,Sim,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,98,MG
+93,29/05/2023 21:48:20,Especialista em desenvolvimento de software,10000.0,4.0,CLT,,Não,Desenvolvimento de novos produtos,Sim,Mais de 1000 funcionários,Sim,-1,SC
+94,29/05/2023 22:09:04,QA engineer,18000.0,1.0,PJ,Não,,Gestão de Produtos,Não,Até 500 funcionários,Não,66,ES
+95,29/05/2023 22:11:45,Desenvolvedor de Sistemas Junior 1,3000.0,1.0,CLT,,Não,Suporte de sistemas em produção,Não,Até 100 funcionár,Sim,17,RJ
+96,29/05/2023 22:13:06,Mid Software Engineer 1,17400.0,4.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 1000 funcionários,Não,-1,SP
+97,29/05/2023 22:25:28,Estagiário de TI,1180.0,1.0,CLT,,Não,Suporte de sistemas em produção,Não,Até 500 funcionários,Sim,72,MT
+98,29/05/2023 22:25:39,Analista de Sistema Sênior ,12000.0,6.0,CLT,,Não,Desenvolvimento de novos produtos,Sim,Mais de 1000 funcionários,Não,16,PE
+99,29/05/2023 22:31:12,Analista de Desenvolvimento Júnior ,5000.0,2.0,CLT,,Sim,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,-1,PE
+100,29/05/2023 22:38:44,Analista sênior em desenvolvimento de sistemas,12000.0,8.0,CLT,,Não,Gestão de Projetos,Sim,Mais de 1000 funcionários,Sim,40,AL
+101,29/05/2023 22:50:55,Analista de sistemas junior,2556.0,2.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Não,89,SE
+102,29/05/2023 22:56:36,Estagiário em Engenharia de Software ,1470.0,0.0,CLT,,Não,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Não,103,MG
+103,29/05/2023 23:03:36,Engenharia de dados,4589.0,4.0,CLT,,Não,Gestão de Produtos,Não,Até 500 funcionários,Não,105,RO
+104,29/05/2023 23:29:47,Pleno,5300.0,6.0,CLT,,Sim,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Não,96,MG
+105,29/05/2023 23:41:16,Engenheiro de software mobile,48500.0,10.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,10,PE
+106,30/05/2023 00:16:12,Desenvolvedor II,2500.0,2.0,CLT,,Não,Suporte de sistemas em produção,Não,Até 100 funcionár,Não,-1,MT
+107,30/05/2023 00:17:55,Full stack developer,60000.0,13.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Sim,-1,SC
+108,30/05/2023 00:26:19,Desenvolver Senior,13500.0,10.0,CLT,,Não,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Sim,33,PR
+109,30/05/2023 00:29:54,Desenvolvedor Front End Pleno,13000.0,3.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 1000 funcionários,Sim,-1,SC
+110,30/05/2023 02:25:42,Especialista DevOps,12000.0,3.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Não,95,GO
+111,30/05/2023 05:49:40,Senior software engineer,75000.0,15.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,44,SP
+112,30/05/2023 06:46:24,Frontend ,9000.0,5.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,-1,MG
+113,30/05/2023 07:05:31,Senior software developer,16777.0,9.0,PJ,Não,,Suporte em sistemas legados,Não,Até 500 funcionários,Não,-1,MG
+114,30/05/2023 07:20:41,Engenheiro cloud,16000.0,5.0,PJ,Não,,DevOps,Não,Até 100 funcionár,Não,-1,PA
+115,30/05/2023 08:10:07,software engineer,12777.0,12.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,69,SP
+116,30/05/2023 08:10:10,Dev senior,11000.0,9.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,-1,CE
+117,30/05/2023 08:11:35,Software Engineerint Analyst Senior,8042.0,7.0,CLT,,Não,Suporte de sistemas em produção,Sim,Mais de 1000 funcionários,Sim,1,SP
+118,30/05/2023 08:15:48,Application Developer Junior,3650.0,1.0,CLT,,Não,Suporte em sistemas legados,Não,Mais de 1000 funcionários,Sim,47,RJ
+119,30/05/2023 08:17:08,Assistente de soluções,5300.0,2.0,CLT,,Sim,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Não,49,SP
+120,30/05/2023 08:17:51,Front-end junior,8500.0,1.0,PJ,Sim,,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,-1,RJ
+121,30/05/2023 08:22:13,Desenvolvedor .NET,9500.0,5.0,CLT,,Não,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Sim,83,MG
+122,30/05/2023 08:36:06,Cientista de dados,14000.0,3.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,-1,SP
+123,30/05/2023 08:43:46,Principal Software Engineer,25000.0,12.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 1000 funcionários,Não,24,SP
+124,30/05/2023 08:54:53,Desenvolvedor de Software Pleno,8000.0,8.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 1000 funcionários,Não,77,SP
+125,30/05/2023 08:58:53,Associate Software Engineer,15000.0,2.0,CLT,,Sim,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Não,-1,França
+126,30/05/2023 09:01:36,Engenheiro de software ,10000.0,4.0,CLT,,Não,Suporte de sistemas em produção,Não,Até 500 funcionários,Não,-1,PE
+127,30/05/2023 09:12:48,Experienced software developer,4600.0,2.0,CLT,,Não,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Não,78,SC
+128,30/05/2023 09:13:49,full stack,8000.0,6.0,PJ,Sim,,Desenvolvimento de novos produtos,Sim,Até 100 funcionár,Não,-1,MG
+129,30/05/2023 09:15:36,Dev Senior backend,13400.0,8.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 1000 funcionários,Não,-1,PE
+130,30/05/2023 09:19:57,Senior Engineer,33000.0,8.0,PJ,Sim,,Desenvolvimento de novos produtos,Não,Até 1000 funcionários,Sim,30,MG
+131,30/05/2023 09:21:52,Desenvolvedor Sênior,15666.0,15.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,-1,SC
+132,30/05/2023 09:24:45,Desenvolvedor Java júnior ,5500.0,1.0,CLT,,Não,Suporte de sistemas em produção,Não,Até 500 funcionários,Não,88,PB
+133,30/05/2023 09:25:12,Desenvolvedor de Software,8185.0,12.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,-1,PR
+134,30/05/2023 09:33:26,Analista de testes automotizados pleno,7500.0,2.0,PJ,Sim,,"Testes em todas as fases de entrega, manutenção de casos de testes, criação e atualização de ambientes ",Não,Até 500 funcionários,Sim,80,SP
+135,30/05/2023 09:45:34,Sênior software engineer ,32000.0,4.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,106,SP
+136,30/05/2023 10:34:08,Desenvolvedor de Software Senior,11669.0,10.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,65,PE
+137,30/05/2023 10:34:23,Desenvolvedor Python Pleno,6500.0,2.0,PJ,Sim,,Suporte de sistemas em produção,Não,Até 100 funcionár,Não,27,AL
+138,30/05/2023 10:51:07,Soft eng 3,14500.0,8.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Não,-1,SC
+139,30/05/2023 11:56:37,Engenheiro de software,42000.0,7.0,CLT,,Sim,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,-1,SP
+140,30/05/2023 12:07:23,Dev front end jr,5100.0,1.0,CLT,,Sim,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Não,-1,SP
+141,30/05/2023 12:17:23,Software Engineer,30000.0,10.0,PJ,Sim,,Suporte de sistemas em produção,Não,Até 500 funcionários,Não,-1,CE
+142,30/05/2023 12:22:45,Software architect ,13000.0,6.0,CLT,,Não,Desenvolvimento de novos produtos,Sim,Até 1000 funcionários,Não,86,MG
+143,30/05/2023 12:40:32,Dev Front End pleno ,11500.0,4.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,53,RJ
+144,30/05/2023 12:52:21,Desenvolvimento freelance,10000.0,25.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 10 funcionários,Não,11,SP
+145,30/05/2023 12:57:18,Senior Frontend Engineer,43000.0,7.0,PJ,Sim,,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,62,PB
+146,30/05/2023 13:16:05,analista de desenvolvimento jr,4700.0,2.0,CLT,,Não,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Sim,115,SP
+147,30/05/2023 13:23:09,Analista de sistemas junior,6750.0,1.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,12,SP
+148,30/05/2023 13:29:15,Senior Software Engineer,67000.0,10.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 1000 funcionários,Não,112,SP
+149,30/05/2023 13:29:19,Cientista de Dados ,15000.0,4.0,CLT,,Sim,Produtização de Modelos de ML,Não,Mais de 1000 funcionários,Sim,28,SP
+150,30/05/2023 13:32:31,DevOps Engineer,22000.0,10.0,PJ,Não,,Suporte de sistemas em produção,Não,Até 500 funcionários,Sim,75,Portugal
+151,30/05/2023 13:36:25,Software developer,14000.0,1.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 10 funcionários,Não,-1,SP
+152,30/05/2023 13:37:56,Engenheiro de software,13400.0,8.0,CLT,,Não,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Não,117,PE
+153,30/05/2023 13:38:30,Senior Software Engineer,16826.0,5.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Não,-1,SP
+154,30/05/2023 13:39:03,Software Engineer Junior,6100.0,1.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,-1,RS
+155,30/05/2023 13:39:07,Desenvolvedor fullstack,1070.0,2.0,CLT,,Não,Suporte de sistemas em produção,Não,Até 100 funcionár,Não,39,SP
+156,30/05/2023 13:45:14,Data Engineer,18000.0,3.0,PJ,Sim,,Suporte de sistemas em produção,Não,Até 500 funcionários,Sim,58,SP
+157,30/05/2023 13:49:52,Sr Software Engineer ,37500.0,11.0,CLT,,Não,Desenvolvimento de novos produtos,Sim,Mais de 1000 funcionários,Não,104,RS
+158,30/05/2023 13:51:29,Senior Software Engineer,40000.0,4.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Sim,-1,SC
+159,30/05/2023 13:53:21,Desenvolvedor pleno,9000.0,4.0,PJ,Não,,Suporte de sistemas em produção,Sim,Até 500 funcionários,Não,-1,SP
+160,30/05/2023 14:02:57,Backend Developer,11000.0,5.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,-1,SP
+161,30/05/2023 14:07:23,frontend,40000.0,4.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Sim,-1,PR
+162,30/05/2023 14:10:53,Senior Software Engineer,47000.0,8.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,-1,SP
+163,30/05/2023 14:13:11,Engineering Lead,120000.0,15.0,PJ,Não,,Desenvolvimento de novos produtos,Sim,Até 100 funcionár,Não,81,SP
+164,30/05/2023 14:23:03,Desenvolvedor backend pleno 2,10300.0,10.0,PJ,Não,,Suporte de sistemas em produção,Sim,Até 100 funcionár,Não,118,SP
+165,30/05/2023 14:56:14,Analista de TI,3500.0,3.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 1000 funcionários,Sim,34,RJ
+166,30/05/2023 15:10:25,Principal Engineer,24000.0,16.0,CLT,,Não,Desenvolvimento de plataforma interna ,Não,Mais de 1000 funcionários,Não,13,PB
+167,30/05/2023 15:18:27,Desenvolvedor Senior,20000.0,11.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,90,SP
+168,30/05/2023 15:26:03,Senior Front-end Engineer,42.0,9.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Não,18,SC
+169,30/05/2023 15:51:00,Engenheiro de Dados,7700.0,3.0,CLT,,Não,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Não,63,SP
+170,30/05/2023 15:52:31,Desenvolver Elixir Pleno,11000.0,3.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Não,92,RN
+171,30/05/2023 16:02:20,Frontend senior,32000.0,5.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Sim,8,RN
+172,30/05/2023 16:07:20,Product engineer ,41000.0,10.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Não,21,Portugal
+173,30/05/2023 16:15:52,TechOps Analyst I,4500.0,5.0,CLT,,Não,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Não,45,RJ
+174,30/05/2023 16:41:36,Senior Software Engineer,33050.0,4.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Até 1000 funcionários,Não,76,ES
+175,30/05/2023 17:16:38,Desenvolvedor senior,11484.0,4.0,CLT,,Sim,Desenvolvimento de novos produtos,Não,Até 1000 funcionários,Não,14,RJ
+176,30/05/2023 17:35:34,Desenvolvedor de software ,7000.0,2.0,PJ,Não,,Desenvolvimento de novos produtos,Não,Até 100 funcionár,Sim,20,SP
+177,30/05/2023 17:36:25,Software Engineer,6000.0,1.0,PJ,Sim,,Desenvolvimento de novos produtos,Não,Até 500 funcionários,Não,-1,SP
+178,30/05/2023 17:55:41,Programador de Software,4500.0,3.0,CLT,,Não,Suporte de sistemas em produção,Não,Até 100 funcionár,Não,94,SC
+179,30/05/2023 17:56:45,Engenheiro de Software Júnior ,3500.0,2.0,CLT,,Não,Suporte de sistemas em produção,Não,Até 500 funcionários,Não,91,SP
+180,30/05/2023 18:18:29,FullStack Developer,16500.0,5.0,PJ,Sim,,Desenvolvimento de novos produtos,Não,Até 10 funcionários,Não,-1,MG
+181,30/05/2023 18:30:30,Dev Senior,14300.0,8.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Sim,41,PR
+182,30/05/2023 19:33:03,Analista de Sistemas I,3000.0,1.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,-1,MG
+183,30/05/2023 19:46:28,Team lead ,37.0,8.0,CLT,,Não,Todos,Sim,Até 100 funcionár,Sim,-1,RN
+184,30/05/2023 19:59:08,Dev,10279.0,11.0,CLT,,Não,Desenvolvimento de novos produtos,Sim,Até 100 funcionár,Não,-1,MG
+185,30/05/2023 20:28:05,Analista de Engenharia de TI Pleno,7885.0,3.0,CLT,,Não,Desenvolvimento de novos produtos,Não,Mais de 1000 funcionários,Não,54,SP
+186,30/05/2023 20:40:12,Desenvolvedor Pleno,6000.0,2.0,CLT,,Não,Suporte de sistemas em produção,Não,Até 500 funcionários,Não,114,PE
+187,30/05/2023 20:41:58,Software Developer,26200.0,1.0,CLT,,Não,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Não,38,Canadá
+188,30/05/2023 21:20:39,Software Support I ,4200.0,2.0,CLT,,Não,Suporte de sistemas em produção,Não,Mais de 1000 funcionários,Não,-1,SP
