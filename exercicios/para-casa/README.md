@@ -13,10 +13,9 @@ Formato do notebook:
         ○	Função de processamento
             ○	Leitura e tratamento do DF
 
-    ●	Visualizações / Insights
-        ○	Código utilizado para geração de gráficos
-        ○	Gráficos
-        ○	Ideias/Insights
+    ●	Visualização dos Dados
+        ○	gerar gráficos
+        ○	extrair ideias e conclusões
 
 Atividades obrigatórias no desenvolvimento:
     ●	3 diferentes gráficos
