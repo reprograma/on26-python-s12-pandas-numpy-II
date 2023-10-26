@@ -11,7 +11,7 @@ Formato do notebook:
 
     ●	Processamento
         ○	Função de processamento
-            ○	Leitura e tratamento do DF
+        ○	Leitura e tratamento do DF
 
     ●	Visualização dos Dados
         ○	gerar gráficos
